@@ -1,3 +1,4 @@
+ALUMNO: José Flores Rios
 # Practica_1
 
 --Ejercicios
